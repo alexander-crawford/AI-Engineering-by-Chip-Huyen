@@ -1,3 +1,7 @@
+ # Preface 
+
+ > The Lindy Effect is a heuristic suggesting that for non-perishable items—such as ideas, technologies, books, or cultural practices—their future life expectancy is proportional to their current age.
+
  # Chapter 1: Introduction to Building AI Applications with Foundation Models
 
  # Chapter 2: Understanding Foundation Models
